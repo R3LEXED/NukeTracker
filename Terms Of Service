@@ -1,28 +1,38 @@
-📜 NukeTracker - Terms of Service
-Last updated: 06-07-2025 (dd/mm/yyyy)
-Welcome to NukeTracker, a player tracking utility bot designed for ARK: Survival Ascended. By using NukeTracker in your Discord server, you agree to the following terms:
+📜 Terms of Service (ToS) for NukeTracker
+Last Updated: June 15, 2025
+
+Welcome to NukeTracker, a Discord bot designed to assist players of ARK: Survival Ascended. By inviting or using NukeTracker in your server, you agree to the following terms:
 
 1. Acceptance of Terms
-By adding or using NukeTracker, you and your server members agree to these Terms of Service. If you do not agree, do not use the bot.
+By using NukeTracker, you agree to these Terms of Service and our Privacy Policy. If you do not agree, please remove the bot from your server.
 
-2. Description of Service
-NukeTracker helps users track players and tribe activity in ARK: Survival Ascended. It offers a Free version (includes ads) and a Premium version (ad-free, with additional features).
+2. Bot Purpose
+NukeTracker provides:
+
+ARK player & server tracking via public APIs
+
+A crafting calculator
+
+OSD and Element Vein monitoring
+
+AI-powered support automation in a designated channel
 
 3. User Conduct
-You agree not to misuse the bot or attempt to disrupt its functionality.
+You agree not to:
 
-Do not use NukeTracker for harassment, stalking, or any form of malicious behavior.
+Abuse the bot, exploit bugs, or spam commands
 
-4. Ads and Monetization
-The Free version of NukeTracker may display in-bot ads or promotional messages.
+Use NukeTracker for harassment or illegal purposes
 
-You can upgrade to the Premium version to remove ads and access bonus features.
+Attempt to reverse-engineer or clone the bot
 
-5. Availability
-We strive to maintain 24/7 uptime, but we do not guarantee uninterrupted service. Downtime may occur for updates, bugs, or maintenance.
+We reserve the right to blocklist or restrict access to NukeTracker for violations of these terms.
 
-6. Termination
-We reserve the right to block, ban, or remove NukeTracker from any server at our discretion, especially for abuse or violation of these terms.
+4. Service Availability
+NukeTracker is provided “as is” and may be updated, changed, or shut down at any time without notice. We do not guarantee 24/7 uptime or support.
 
-7. Disclaimer
-NukeTracker is not affiliated with or endorsed by Studio Wildcard or ARK: Survival Ascended. All ARK-related content belongs to their respective owners.
+5. Liability
+We are not liable for any loss, damage, or bans resulting from the use or misuse of this bot. Use at your own risk.
+
+6. Changes to the Terms
+We may revise these Terms of Service at any time. Continued use of the bot after changes means you accept the new terms.
