@@ -1,52 +1,45 @@
-🔒 NukeTracker - Privacy Policy
-Last updated: 06/07/2025 (dd/mm/yyyy)
+🔒 Privacy Policy for NukeTracker
+Last Updated: June 15, 2025
 
-Your privacy is important to us. This policy explains how we collect, use, and protect your data when you use NukeTracker.
+Your privacy matters. This document explains how NukeTracker collects and uses data.
 
-1. What We Collect
-We may collect and store:
+1. What Data We Collect
+NukeTracker may collect and store:
 
-Discord server ID, channel ID, and user ID (for functionality)
+Discord user IDs and server IDs for tracking configuration
 
-ARK player or tribe information (entered by users)
+ARK player IDs (short/full EOS tokens) and associated data via ARK's API
 
-Basic interaction logs (e.g., command usage)
+Server information such as region or status
 
-Ad engagement data (Free version only)
+Messages sent in a designated support channel (for AI response only)
 
-We do not collect:
-
-Private messages
-
-Passwords or sensitive personal information
-
-2. How We Use Your Data
+2. How We Use Data
 We use your data to:
 
-Provide tracking services
+Provide and improve NukeTracker’s features (e.g., tracking, calculation, and support)
 
-Display ads (Free version only)
+Enable persistent settings per server
 
-Improve functionality and user experience
+Power AI-based help responses
 
-Prevent abuse or misuse of the bot
+We do not sell or share your data with third parties.
 
-3. Third-Party Services
-We may use third-party analytics or ad services. These services may collect data such as IP addresses and general usage patterns, but not your messages or personal info.
+3. Data Retention
+Data is stored as long as necessary to provide service. Server-specific data (like tracked players) is deleted upon bot removal or user request.
 
-4. Data Retention
-We retain only necessary data for as long as the bot is active in your server. You may request data removal by contacting us via [insert contact info or support server].
+4. AI Support Note
+The AI support system reads messages in a specific channel that admins configure. No other channels are read or stored.
 
-5. Opt-Out & Deletion
-To opt-out of data collection or delete your data:
+5. Your Rights
+You may request:
 
-Remove the bot from your server
+Deletion of your server's data
 
-Contact our support team via [insert link]
+Deletion of a specific EOS ID from tracking
 
-6. Children’s Privacy
-NukeTracker is intended for users 13 years or older, in compliance with Discord's Terms of Service.
+Contact the developer via Discord or email to request removal.
 
-7. Changes to Policy
-We may update this Privacy Policy at any time. Continued use of the bot after changes indicates acceptance.
-
+6. Contact
+For questions or requests:
+📧 risqdc@gmail.com
